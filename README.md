@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Tim...
 
-#### I'm a software developer.
+#### Software Developer
 
 ![I'm a software developer.](https://tjdove.github.io/tjdove/images/banner.png)
 
