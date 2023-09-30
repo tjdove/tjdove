@@ -1,8 +1,5 @@
-### Hi there 👋, my name is Tim...
-
+Tim Dove
 #### Software Developer
-
-![I'm a software developer.](https://tjdove.github.io/tjdove/images/banner.png)
 
 Software Developer focusing on Web Technologies. Other programming interests include AI/Machine Learning, FPV Drones, and Ham radio.
 
