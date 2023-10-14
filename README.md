@@ -1,15 +1,17 @@
 # Tim Dove
 
-**Software Developer** focusing on Web Technologies(**React Applications**). Other programming interests include AI/Machine Learning, , and Ham radio.
+**Software Developer** focusing on Web Technologies(**React Applications**). Other programming interests include:
+
+![AI24](https://github.com/tjdove/tjdove/assets/22068101/43acd57e-32ee-46fd-a731-8d846e502971) AI/Machine Learning ![drone30](https://github.com/tjdove/tjdove/assets/22068101/1e788614-9897-44fa-8ac3-c3848b03f8d2) FPV Drones ![ham40](https://github.com/tjdove/tjdove/assets/22068101/51ed27e5-3da4-4c2a-9aa5-8e813c0f1eef) Ham radio
 
 
 ## 🚀 About Me
 
-🎓 I am, a **Full Stack Developer** (specializing in **React Applications**) and a **Top Rated** [**Freelancer**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) on _Upwork_. 
+🎓 I am, a **Full Stack Developer** (specializing in **React Applications**).
+
+<!--and a **Top Rated** [**Freelancer**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) on _Upwork_. -->
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. Im a long time time **guitar player** and **bad singer**. 
-
-![AI24](https://github.com/tjdove/tjdove/assets/22068101/43acd57e-32ee-46fd-a731-8d846e502971) AI/Machine Learning ![drone30](https://github.com/tjdove/tjdove/assets/22068101/1e788614-9897-44fa-8ac3-c3848b03f8d2) FPV Drones ![ham40](https://github.com/tjdove/tjdove/assets/22068101/51ed27e5-3da4-4c2a-9aa5-8e813c0f1eef) Ham radio
 
 ## 🛠️ Skills
 
